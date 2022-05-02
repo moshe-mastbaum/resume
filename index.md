@@ -17,7 +17,7 @@
                     <img src="me.jpeg">
                 </div>
                 <div class="bio">
-                    <h1 class="name">Moshe mastbaum</h1>
+                    <h1 class="name">Moshe Mastbaum</h1>
                     <p class="profession">automation engneer</p>
                 </div>
             </div>
