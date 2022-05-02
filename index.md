@@ -97,6 +97,12 @@
                     <div class="timeline-block">
                         <h1>ATID college</h1>
                         <p>Automation learning center, Israel</p>
+                        <div class="info-section link">
+                            <i class="fab fa-medium"></i>
+                            <a target="_blank" rel="author" href="https://github.com/moshe-mastbaum/automation_desktopProject">
+                                <span>automation desktop project</span>
+                            </a>
+                        </div>
                         <time>2022</time>
                     </div>
                     <div class="timeline-block">
