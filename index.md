@@ -96,10 +96,11 @@
                 <div class="detail-content">
                     <div class="timeline-block">
                         <h1>ATID college</h1>
-                        <p>Automation learning center, Israel</p>
+                        <p>Automation learning center, Israel 
                         <a target="_blank" rel="author" href="https://drive.google.com/file/d/1ni-pU4JBIasCWhvz0E0tpvqdS98lJvh7/view">
                             <span>syllabus</span>
-                        </a>                   
+                        </a>  
+                        </p>
                         <time>2022</time>
                     </div>
                     <div class="timeline-block">
