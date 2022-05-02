@@ -95,7 +95,7 @@
                 </div>
                 <div class="detail-content">
                     <div class="timeline-block">
-                        <h1>Atidcollege</h1>
+                        <h1>ATID college</h1>
                         <p>Automation learning center, Israel</p>
                         <time>2022</time>
                     </div>
@@ -128,6 +128,18 @@
                 <div class="detail-content">
                     <ul class="pg-list">
                         <li>
+                            <span>Javascript</span>
+                            <div class="sb-skeleton">
+                                <div class="skillbar" style="--pgbar-length: 90%"></div>
+                            </div>
+                        </li>
+                         <li>
+                            <span>Python</span>
+                            <div class="sb-skeleton">
+                                <div class="skillbar" style="--pgbar-length: 85%"></div>
+                            </div>
+                        </li>
+                        <li>
                             <span>HTML5</span>
                             <div class="sb-skeleton">
                                 <div class="skillbar" style="--pgbar-length: 90%"></div>
@@ -139,24 +151,13 @@
                                 <div class="skillbar" style="--pgbar-length: 75%"></div>
                             </div>
                         </li>
-                        <li>
-                            <span>Javascript</span>
-                            <div class="sb-skeleton">
-                                <div class="skillbar" style="--pgbar-length: 90%"></div>
-                            </div>
-                        </li>
+                        
                         <li>
                             <span>Java</span>
                             <div class="sb-skeleton">
                                 <div class="skillbar" style="--pgbar-length: 80%"></div>
                             </div>
-                        </li>
-                        <li>
-                            <span>Python</span>
-                            <div class="sb-skeleton">
-                                <div class="skillbar" style="--pgbar-length: 85%"></div>
-                            </div>
-                        </li>
+                        </li>                       
                         <li>
                             <span>Bash</span>
                             <div class="sb-skeleton">
@@ -194,7 +195,7 @@
                                 <circle cx="50" cy="50" r="45"></circle>
                                 <circle class="cbar" cx="50" cy="50" r="45" style="--percent: 0.6"></circle>
                             </svg>
-                            <span class="tl-name">Slenium</span>
+                            <span class="tl-name">Selenium</span>
                             <span class="tl-exp">90%</span>
                         </li>
                         <li>
@@ -218,7 +219,7 @@
                                 <circle cx="50" cy="50" r="45"></circle>
                                 <circle class="cbar" cx="50" cy="50" r="45" style="--percent: 0.74"></circle>
                             </svg>
-                            <span class="tl-name">Pytset</span>
+                            <span class="tl-name">PyTset</span>
                             <span class="tl-exp">90%</span>
                         </li>
 
