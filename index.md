@@ -82,7 +82,13 @@
                         <span>automation electron project</span>
                     </a>
                 </div>
-
+                 <div class="info-section link">
+                    <i class="fab fa-medium"></i>
+                    <a target="_blank" rel="author" href="https://youtu.be/Sa2T1OyDTCU">
+                        <span>Web project video</span>
+                    </a>
+                </div>
+                
             </div>
         </div>
         <div class="detail">
